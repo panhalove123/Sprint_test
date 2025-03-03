@@ -10,10 +10,8 @@
                 <a class="nav-link active" aria-current="page" href="/">Home</a>
                 <a class="nav-link active" aria-current="page" href="/manage">Userlist</a>
                 <a class="nav-link" href="/managelist">Manage List</a>
-                <a class="nav-link " aria-current="page" href="/">Home</a>
                 <a class="nav-link" href="/managelist">Manage List</a>
                 <a class="nav-link active" href="/manage-user">Manage User</a>
-                <a class="nav-link" href="">Other</a>
             </div>
         </div>
     </div>
